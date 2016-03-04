@@ -12,5 +12,6 @@ public class githubproto
 
     public static void main (String [] args){
         System.out.println("Hi art, I am stupid");
+        System.out.println("Hi art, I am stupid");
     }
 }
